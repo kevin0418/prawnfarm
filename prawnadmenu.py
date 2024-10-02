@@ -53,8 +53,12 @@ with st.sidebar:
            - [Watch to video ](https://youtu.be/EZ4SLXaQLx0)
     
            - [Brochure ](https://kevinoh-prawnfarmbrochure.streamlit.app/)
+
+           - [Location ](https://kevinoh-prawnmap.streamlit.app/)
           
                  
+           
+
     """
     )
      
