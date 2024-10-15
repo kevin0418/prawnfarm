@@ -1,26 +1,19 @@
 import streamlit as st
 
-#st.write("## Prawn Farm :red[Sale] ")  
-#st.write ("### in Mullett Creek") 
 st.write("## Prawn Farm :red[Sale] ") 
 st.write("**in Mullett Creek**")  
-#st.write ("### in Mullett Creek") 
-
 
 st.markdown(
-"""
-    
+"""    
     :blue[Prime Investment Opportunity]\n 
-    Welcome to an exceptional investment opportunity, more than 10% yield
-
+    Welcome to an exceptional investment opportunity, more than 10% yield\n
     :blue[safe place from diseases]\n
     it is restricted to the general public and far from general residential areas
-    Japanese company harvested about 150 tons per year for 10 years from 1993
-
+    Japanese company harvested about 150 tons per year for 10 years from 1993\n
     :blue[Secure Income Stream]\n
-    It is produced about 10-12 tons of prawn per hector.
-    Production is mainly Costco (70%) and fish market (30%) sales
-
+    - Production 126 tons 13ha Sales are 3.3mil profit 1.1mil
+    - Production 230 tons 23ha Sales are 4.53mil profit 2.2mil
+    - Production is mainly Costco (70%) and fish market (30%) sales\n
     :blue[Future Development]\n
     The total 142 ha, the aquaculture licensed is 50 ha and 70 ha is expected.
     Currently 25 ha is being produced and gradually expanded
@@ -31,17 +24,16 @@ st.markdown(
 )     
 
 st.write("### Contact information")
-st.write("**Yong Real Estate**")
-
+st.write("**Yong Real Estate**","      click below for details")
+#st.write("click below for details")
 st.markdown(
 """    
-  
-     Melanie Zhong  : 0450 634 279\n
-     Kevin OH : 0402 283 003
+     [Melanie Zhong  : 0450 634 279](https://www.yong.com.au/Melanie-Hamlyn/)\n
+     [Kevin  Oh      : 0402 283 003](https://www.yong.com.au/Kevin-Oh/) 
+     
 """
 )  
 with st.sidebar:
-     
      
      st.markdown(
       """ 
