@@ -47,6 +47,8 @@ with st.sidebar:
            - [Brochure ](https://kevinoh-prawnfarmbrochure.streamlit.app/)
 
            - [Location ](https://kevinoh-prawnmap.streamlit.app/)
+
+           - [Expression of Interest EOI](https://drive.google.com/file/d/1_EO9zTIYoVegcRcGaDNDAHckHiPng7pM/view?usp=drive_link)
           
                  
            
